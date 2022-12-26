@@ -1,0 +1,3 @@
+number		title	description	publishDate	city	imgPreview	images	isPremium	rating	accommodation	roomsCount	guestsCount	price	conveniences	hostID	commentsCount	coordsOffer
+1		titel1	description1	publishDate1	city1	imgPreview1	image1-1, imsge1-2, image1-3	true	5	room	2	3	100.10	Breakfast, Laptop friendly workspace, Towels	2		48.85661, 2.351499
+2		titel2	description2	publishDate2	mcity2	imgPreview2	image2-1, imsge2-2, image2-3	false	1	apartment	6	5	200	Fridge, Air conditioning	1	2
