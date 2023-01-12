@@ -1,4 +1,3 @@
-import {City} from './city';
 import {Accommodation} from './accommodation';
 import {Convenience} from './convenience';
 import {Coord} from './coord';
@@ -8,7 +7,7 @@ export type Offer = {
   title: string;
   description: string;
   publishDate: Date;
-  city: City;
+  city: string;
   imgPreview: string;
   images: string[];
   isPremium: boolean;
