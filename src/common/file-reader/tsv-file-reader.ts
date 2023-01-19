@@ -1,8 +1,8 @@
 import {FileReaderInterface} from './file-reader.interface.js';
 import {readFileSync} from 'fs';
 import {Offer} from '../../types/offer.js';
-import {Coord} from '../../types/coord';
-import {Convenience} from '../../types/convenience';
+import {Coord} from '../../types/coord.js';
+import {Convenience} from '../../types/convenience.js';
 
 export default class TSVFileReader implements FileReaderInterface {
   private rawData = '';
