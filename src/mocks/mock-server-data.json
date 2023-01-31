@@ -13,6 +13,48 @@
       "desc 4",
       "desc 5",
       "desc 6"
+    ],
+    "cities": [
+      "city 1",
+      "city 2",
+      "city 3",
+      "city 4",
+      "city 5"
+    ],
+    "imgPreviews": [
+      "imgPreview 1",
+      "imgPreview 2",
+      "imgPreview 3",
+      "imgPreview 4",
+      "imgPreview 5",
+      "imgPreview 6",
+      "imgPreview 7"
+    ],
+    "images": [
+      "image 1",
+      "image 2",
+      "image 3",
+      "image 4",
+      "image 5",
+      "image 6",
+      "image 7"
+    ],
+    "conveniences":[
+      "Breakfast",
+      "Air conditioning",
+      "Laptop friendly workspace",
+      "Baby seat",
+      "Washer",
+      "Towels",
+      "Fridge"
+    ],
+    "coordinates":[
+      {"latitude": 48.85661, "longitude": 2.351499},
+      {"latitude": 50.938361, "longitude": 6.959974},
+      {"latitude": 46.85661, "longitude": 2.351499},
+      {"latitude": 59.938361, "longitude": 4.959974},
+      {"latitude": 47.85661, "longitude": 3.351499},
+      {"latitude": 49.938361, "longitude": 5.959974}
     ]
   }
 }
